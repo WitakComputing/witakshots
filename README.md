@@ -1,6 +1,6 @@
 # Witakshots
 <h3>I'm creating my first website</h3><br>
-<p>The plan is to create a portfolio website for my photography business, this will be a 4/5 page website with sections such as: Home, about, services, portfolio and contact. To create this site I will use html, css and javascript + whatever else is required. Main features I would like the site to have is:
+<p>The plan is to create a portfolio website for my photography business, this will be a 4/5 page website with sections such as: Home, about, services, portfolio and contact. To create this site I will use html, css and javascript + whatever else is required.<br> Main features I would like the site to have is:<br>
  - A dynamic photo library (Click on main photo which takes you to the collection and includes a description)
  - Links to social media and embedded instagram feed
  - 
